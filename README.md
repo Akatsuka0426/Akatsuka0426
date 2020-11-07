@@ -7,4 +7,4 @@ Oh! The my status is too cool!
 - [Qiita](https://qiita.com/neko0426_akatsuka)
 
 ### Top languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Akatsuka0426)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsuka0426)](https://github.com/Akatsuka0426)
